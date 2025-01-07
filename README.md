@@ -1,6 +1,6 @@
 # Straight Line Mission
  
-Idea inspired by 'the community of straight-line-walkers' and the content of [Ally's Adventures]([url](https://youtu.be/wDfiwpBUN5o?si=g1Egj9Oow4kkxi7k)) in particular.
+Idea inspired by '[the community of straight-line-walkers](https://youtu.be/qp0nRvkJP3w?si=AoR-oxkUdbNzZdvj)' of Youtube.
 
 This repo will aggregate all ideas related to this activity.
 
